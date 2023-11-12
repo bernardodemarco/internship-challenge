@@ -1,4 +1,13 @@
 def fib(position: int) -> int:
+    """
+    Calculate the Fibonacci value at the given position using a linear approach.
+
+    Args:
+        position (int): the position in the Fibonacci sequence.
+
+    Returns:
+        int: the Fibonacci value at the given position
+    """
     fib_sequence = [0, 1]
 
     if position < 2:
