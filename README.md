@@ -6,9 +6,9 @@ Esse documento consiste na resolução do desafio proposto pela empresa SC Cloud
 
 1. [Questões Conceituais](#questões-conceituais)
 
-   1. [Questão 1](#questão-1)
-   2. [Questão 2](#questão-2)
-   3. [Questão 3](#questão-3)
+   1. [Questão 1](#diferenciar-as-camadas-2-e-3-do-modelo-osi-e-indicar-os-protocolos-utilizados-para-endereçamento-nestas-camadas)
+   2. [Questão 2](#qual-a-diferença-entre-adotar-uma-solução-proprietária-como-o-sistema-operacional-windows-quando-comparado-a-adoção-de-uma-solução-opensource-como-o-sistema-operacional-ubuntu-quais-seriam-os-pontos-negativos-e-positivos-de-cada-abordagem)
+   3. [Questão 3](#o-que-seria-um-projeto-opensource-como-empresas-podem-adotar-tais-tecnologias-e-o-que-isso-acarreta)
 
 2. [Questões Práticas](#questões-práticas)
 
@@ -16,9 +16,7 @@ Esse documento consiste na resolução do desafio proposto pela empresa SC Cloud
 
 Segue as respostas relacionadas às perguntas conceituais propostas no desafio.
 
-### Questão 1
-
-#### Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
+### Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
 
 O modelo Open Systems Interconnection (OSI) é um modelo conceitual que possibilita a comunicação entre diferentes sistemas usando protocolos padronizados. Ele é divido em sete camadas hierárquicas. As camadas mais próximas ao topo da pilha possuem um grau de abstração maior, podendo consumir serviços providos pelas camadas abaixo delas.
 
@@ -32,7 +30,9 @@ A camada três do modelo OSI é a Camada de Rede/The Network Layer. A sua princi
 
 Dentre os protocolos utilizados na Network Layer, destacam-se o Internet Protocol (IP) e o Internet Control Message Protocol (ICMP). O IP é responsável pelo endereçamento IP, determinar a rota que um pacote deve traçar, formatar pacotes em "datagrams" e fragmentar pacotes. O ICMP é responsável pela detecção de erros e pela reportagem deles.
 
-### Questão 2
+### Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma solução OpenSource como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
+
+### O que seria um projeto OpenSource? Como empresas podem adotar tais tecnologias e o que isso acarreta?
 
 ### Questão 3
 
