@@ -32,7 +32,23 @@ Dentre os protocolos utilizados na Network Layer, destacam-se o Internet Protoco
 
 ### Qual a diferença entre adotar uma solução proprietária como o sistema operacional Windows quando comparado a adoção de uma solução OpenSource como o sistema operacional Ubuntu? Quais seriam os pontos negativos e positivos de cada abordagem?
 
+Softwares Open Source são softwares cujo código é livremente disponível na internet. Desenvolvedores podem modificá-lo, adicionando novas funcionalidades de acordo com as suas demandas. Esse tipo de software possui diretrizes de contribuição, geralmente disponíveis em suas documentações. Além disso, eles geralmente possuem licenças que estipulam os direitos dos usuários. Alguns exemplos famosos de softwares open source são Ubuntu, Android e Firefox.
+
+Softwares Proprietários são softwares cujo código não é publicamente disponível. Eles são desenvolvidos, testados e mantidos pela organização/indivíduo que possui seus direitos. As organizações proprietárias disponibilizam para os usuários do software licenças, que determinam o escopo de funcionalidades disponíveis. Como exemplo, valem ser ressaltados o Windows, macOS e Microsoft Office.
+
+Alguns prós e contras de cada tipo de software que valem a pena serem elencados:
+
+- Softwares Open Source provêm mais controle e adaptabilidade do código em relação a Softwares Proprietários, visto que eles podem ser examinados constantemente pela comunidade.
+- Como os Softwares Proprietários não têm seus códigos disponíveis publicamente, é quase impossível que seus usuários proponham melhoras ou novas funcionalidades. A abordagem Open Source, por outro lado, estimula constantemente a comunidade a contribuir ao projeto, aumentando sua transparência em relação aos seus usuários.
+- Softwares proprietários geralmente vêm acompanhados de planos de assinaturas, taxas de licença e de manutenção. Softwares open source não são sempre pagos e quando são, o custo é geralmente baixo.
+- Um dos pontos mais fortes dos softwares proprietários é a questão da estabilidade. Eles tendem a ser mais estáveis que softwares de código aberto.
+- Softwares proprietários são uma boa opção quando uma empresa deseja escalar um sistema rapidamente, sem se preocupar em relação a compatibilidade com tecnologias existentes.
+
 ### O que seria um projeto OpenSource? Como empresas podem adotar tais tecnologias e o que isso acarreta?
+
+Um projeto OpenSource é um projeto que está livre para a comunidade examinar, modificar, aprimorar e documentar seu código. Geralmente, ele possui uma licença que estipula o que pode ser feito com o software, juntamente com diretrizes de contribuição.
+
+A adoção de tecnologias open source por empresas é extremamente válida. Elas geralmente possuem um custo reduzido em relação às tecnologias proprietárias, são flexíveis, customizáveis, etc. É interessante que a empresa crie entre os seus desenvolvedores uma cultura de contribuição ativa a esses projetos. Também devem ser avaliados os riscos associados ao uso dessas tecnologias, relacionados à segurança e à questão legal. Além disso, deve ser levados em consideração a maturidade e estabilidade da tecnologia a ser adotada.
 
 ### Questão 3
 
