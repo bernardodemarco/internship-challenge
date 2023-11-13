@@ -6,7 +6,7 @@ def fib(position: int) -> int:
         position (int): the position in the Fibonacci sequence.
 
     Returns:
-        int: the Fibonacci value at the given position
+        int: the Fibonacci value at the given position.
     """
     fib_sequence = [0, 1]
 

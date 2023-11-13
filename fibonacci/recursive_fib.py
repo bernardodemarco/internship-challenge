@@ -6,7 +6,7 @@ def recursive_fib(position: int) -> int:
         position (int): the position in the Fibonacci sequence.
 
     Returns:
-        int: the Fibonacci value at the given position
+        int: the Fibonacci value at the given position.
     """
     if position == 0:
         return 0

@@ -6,7 +6,7 @@ def is_prime(num: int) -> bool:
     Determine if the given number is prime using a linear approach.
 
     Args:
-        num     (int): the number to evaluate.
+        num (int): the number to evaluate.
 
     Returns:
         bool: flag indicating whether the number is prime or not.

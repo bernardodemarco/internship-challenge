@@ -14,7 +14,7 @@ Esse documento consiste na resolução do desafio proposto pela empresa SC Cloud
 
 ## Questões Conceituais
 
-Segue as respostas relacionadas às perguntas conceituais propostas no desafio.
+Segue as respostas das perguntas conceituais propostas no desafio.
 
 ### Diferenciar as camadas 2 e 3 do modelo OSI, e indicar os protocolos utilizados para endereçamento nestas camadas.
 
@@ -22,7 +22,7 @@ O modelo Open Systems Interconnection (OSI) é um modelo conceitual que possibil
 
 A camada dois do modelo OSI é a Camada de Enlace de Dados/Data Link Layer. Ela trabalha em cima da camada física, gerenciando a transmissão e recepção de quadros, e controlando o fluxo e os erros de dados na comunicação intrarrede (na mesma rede). Uma das atribuições da camada é receber dados como pacotes da Camada de Rede (camada acima), dividi-los em quadros e envia-los bit a bit para a camada física. Essa camada é considerada uma das mais complexas do modelo OSI, visto que abstrai as complexidades de hardware para as camadas superiores.
 
-A Data Link Layer é subdivida em duas outras sub-camadas, a Logical Link Control (LLC) e a Media Access Control (MAC). A LLC lida com multiplexação, fluxo de dados entre aplicações/serviços e fornecimento mensagens de erros e outros avisos gerais. Já a MAC é responsável gerenciar interações entre dispositivos e endereçar quadros.
+A Data Link Layer é subdivida em duas outras sub-camadas, a Logical Link Control (LLC) e a Media Access Control (MAC). A LLC lida com multiplexação, fluxo de dados entre aplicações/serviços e fornecimento de mensagens de erros e outros avisos gerais. Já a MAC é responsável gerenciar interações entre dispositivos e endereçar quadros.
 
 Além disso, existem diversos protocolos na Data Link Layer, como: Synchronous Data Link Protocol (SDLC), High-Level Data Link Protocol (HDLC), Point to Point Protocol (PPP), entre outros.
 
@@ -49,8 +49,6 @@ Alguns prós e contras de cada tipo de software que valem a pena serem elencados
 Um projeto OpenSource é um projeto que está livre para a comunidade examinar, modificar, aprimorar e documentar seu código. Geralmente, ele possui uma licença que estipula o que pode ser feito com o software, juntamente com diretrizes de contribuição.
 
 A adoção de tecnologias open source por empresas é extremamente válida. Elas geralmente possuem um custo reduzido em relação às tecnologias proprietárias, são flexíveis, customizáveis, etc. É interessante que a empresa crie entre os seus desenvolvedores uma cultura de contribuição ativa a esses projetos. Também devem ser avaliados os riscos associados ao uso dessas tecnologias, relacionados à segurança e à questão legal. Além disso, deve ser levados em consideração a maturidade e estabilidade da tecnologia a ser adotada.
-
-### Questão 3
 
 ## Questões Práticas
 
@@ -85,7 +83,7 @@ Para rodar os algoritmos localmente, certifique-se que a versão do Python seja 
     python3 main.py
 ```
 
-Ressalta-se que para rodar os algoritmos foi criado um menu intuitivo para navegar entre as resoluções.
+Ressalta-se que foi criado um menu intuitivo para navegar entre as resoluções.
 
 ### Sobre a documentação dos algoritmos
 
