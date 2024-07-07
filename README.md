@@ -1,6 +1,4 @@
-# Desafio SC Clouds
-
-Esse documento consiste na resolução do desafio proposto pela empresa SC Clouds para vaga de desenvolvedor.
+# Desafio
 
 ## Sumário
 
